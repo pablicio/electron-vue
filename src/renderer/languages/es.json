@@ -1,0 +1,20 @@
+{   
+    "nav":
+    {
+        "home" : "Comienzo",  
+        "lib": "Bibliotecas",  
+        "drug": "Drogas",
+        "login" : "Sesión",
+        "lang" : "Idioma"
+    },
+    "homepage":
+    {
+        "title" : "Tema Vue Electron Starter",    
+        "version": "Versión",
+        "description" : "A continuación puede encontrar características que ya están integradas en este tema de inicio."
+    },
+    "login":
+    {
+        "title" : "por favor Iniciar sesión"
+    }
+}

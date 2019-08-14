@@ -1,0 +1,20 @@
+{   
+    "nav":
+    {
+        "home" : "Início",
+        "lib": "Bibliotecas",    
+        "drug": "Drogas",
+        "login" : "Login",
+        "lang" : "Linguagem"
+    },
+    "homepage":
+    {
+        "title" : "Tema inicial Vue",    
+        "version": "Versão",
+        "description" : "faça diversas peripécias com este tema!!"
+    },
+    "login":
+    {
+        "title" : "por favor, logue."
+    }
+}
